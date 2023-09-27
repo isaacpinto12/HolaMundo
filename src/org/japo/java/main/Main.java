@@ -25,8 +25,9 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        String nombre = "isaacpinto12";
         // TODO code application logic here
-        System.out.println("Hola Mundo");
+        System.out.println("Hola " + nombre);
     }
     
 }
